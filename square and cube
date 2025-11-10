@@ -1,0 +1,5 @@
+a=6
+square=a**2
+print("square of the number:",square )
+cube=a**3
+print("cube of the number:",cube)
