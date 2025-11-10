@@ -1,0 +1,5 @@
+principle=float(input("enter the principle:"))
+rate=float(input("enter the rate:"))
+time=float(input("enter the time:"))
+si=principle*rate*time/100
+print("simple interest=",si)
