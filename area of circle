@@ -1,0 +1,4 @@
+r=float(5.7)
+pi=3.14
+area=pi*r**2
+print("area of circle is:",area)
