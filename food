@@ -1,0 +1,8 @@
+
+a=str(input("enter the food item:"))
+if (a=="nonveg"):
+  print("very healthy")
+elif (a=="vegetables"):
+ print("healthy")
+else :
+  print("not so healthy")
