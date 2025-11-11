@@ -1,0 +1,5 @@
+a=int(input("enter a number:"))
+if (a>0):
+  print("the number is positive and even")
+elif (a<0):
+  print("the number is negative and odd")
