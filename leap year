@@ -1,0 +1,5 @@
+a=int(input("enter the days of years:"))
+if a==365:
+  print("the given year is not leap year")
+elif a==366:
+  print("the given year is a leap year")
